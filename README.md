@@ -1,4 +1,4 @@
-# 💜 DHARANI G.
+# 💜 DHARANI G
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,25:1E0B3D,50:4C1D95,75:7C3AED,100:2563EB&height=250&section=header&text=DHARANI%20G.&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20ENGINEER%20%7C%20WEB%20DEVELOPER%20%7C%20DIGITAL%20PRESENCE%20CREATOR&descAlignY=60&descSize=17" width="100%"/>
