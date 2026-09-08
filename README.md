@@ -33,79 +33,74 @@
 
 ---
 
-## `01` — SYSTEM.IDENTITY
+## `01` — PROFILE.IDENTITY
+
+<table align="center">
+  <tr>
+    <td>🧠 <b>ROLE</b></td>
+    <td>AI Engineer / Web Developer</td>
+  </tr>
+  <tr>
+    <td>🎯 <b>FOCUS</b></td>
+    <td>AI + Web + Automation</td>
+  </tr>
+  <tr>
+    <td>📍 <b>LOCATION</b></td>
+    <td>Tenkasi, Tamil Nadu, India</td>
+  </tr>
+  <tr>
+    <td>⚙️ <b>MODE</b></td>
+    <td>Learn / Build / Ship</td>
+  </tr>
+</table>
+
+I'm **Dharani G.**, an AI Engineer and Web Developer focused on **Artificial Intelligence, Machine Learning, automation, and modern web development**.
+
+Currently working at **Aram Analytics**, building AI-powered solutions, automation workflows, lead-generation systems, data-processing pipelines, and CRM solutions.
+
+I enjoy turning real-world problems into practical technology solutions.
 
 ```text
-╭──────────────────────────────────────────────────────────────────────╮
-│                                                                      │
-│   > INITIALIZING DHARANI_OS...                                      │
-│                                                                      │
-│   [██████████████████████████████████████████████████] 100%         │
-│                                                                      │
-│   STATUS        : ONLINE                                             │
-│   ROLE          : AI ENGINEER                                       │
-│   ENVIRONMENT   : WEB + AI + MACHINE LEARNING                       │
-│   LOCATION      : TENKASI, TAMIL NADU, INDIA                       │
-│   MODE          : BUILD / LEARN / SHIP                              │
-│                                                                      │
-╰──────────────────────────────────────────────────────────────────────╯
+Understand the problem  →  Build the solution  →  Make it useful  →  Keep improving it
 ```
-
-I’m **Dharani G.**, an AI Engineer and Web Developer focused on building practical technology that connects **artificial intelligence, machine learning, and modern web experiences**.
-
-Currently working at **Aram Analytics**, I work on AI-driven analytics, ML automation pipelines, and AI-powered applications using Python and deep-learning technologies.
-
-My engineering mindset is simple:
-
-> **Understand the problem → Build the system → Make it useful → Keep improving it.**
-
-I enjoy moving between **machine-learning models, computer vision, frontend interfaces, backend logic, and deployment** — turning ideas into working products rather than stopping at prototypes.
 
 ---
 
-## `02` — MY ENGINEERING DNA
+## `02` — HOW I WORK
 
-```text
-                    ┌─────────────────┐
-                    │      IDEA       │
-                    └────────┬────────┘
-                             │
-                             ▼
-              ┌─────────────────────────────┐
-              │       PROBLEM ANALYSIS      │
-              └──────────────┬──────────────┘
-                             │
-                             ▼
-       ┌──────────────────────────────────────────┐
-       │                ENGINEERING               │
-       │                                          │
-       │   AI/ML  ◄──────►  WEB  ◄──────► DATA  │
-       └──────────────────────┬───────────────────┘
-                              │
-                              ▼
-                  ┌─────────────────────┐
-                  │   BUILD • TEST •    │
-                  │     ITERATE         │
-                  └──────────┬──────────┘
-                             │
-                             ▼
-                    ┌────────────────┐
-                    │    PRODUCT     │
-                    └────────────────┘
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/1.%20IDEA-8B5CF6?style=for-the-badge"/> ➜
+  <img src="https://img.shields.io/badge/2.%20UNDERSTAND%20THE%20PROBLEM-7C3AED?style=for-the-badge"/> ➜
+  <img src="https://img.shields.io/badge/3.%20BUILD%20THE%20SOLUTION-6D28D9?style=for-the-badge"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/4.%20TEST%20%E2%80%A2%20IMPROVE-4C1D95?style=for-the-badge"/> ➜
+  <img src="https://img.shields.io/badge/5.%20SHIP-312E81?style=for-the-badge"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%2FML-8B5CF6?style=flat-square"/> ↔
+  <img src="https://img.shields.io/badge/WEB-7C3AED?style=flat-square"/> ↔
+  <img src="https://img.shields.io/badge/AUTOMATION-6D28D9?style=flat-square"/>
+</p>
 
-### What I build
+My approach is simple: understand the problem first, choose the right technology, build a practical solution, test it, and continuously improve it.
 
-| Area                           | What I work with                                 |
-| ------------------------------ | ------------------------------------------------ |
-| 🤖 **Artificial Intelligence** | AI-powered applications, ML automation           |
-| 🧠 **Machine Learning**        | Deep Learning, CNN, Random Forest, Scikit-Learn  |
-| 👁️ **Computer Vision**        | OpenCV, MediaPipe, video analysis                |
-| 🎧 **Audio AI**                | Spectrogram processing, CNN-based classification |
-| 🌐 **Frontend Engineering**    | React, Next.js, JavaScript, responsive UI        |
-| 🛍️ **E-commerce**             | Shopify, Liquid, conversion-focused storefronts  |
-| 🚀 **Deployment**              | Vercel, Streamlit                                |
-| 🔧 **Engineering Tools**       | Git, GitHub, VS Code                             |
+### Focus areas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-6D28D9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Audio%20AI-4C1D95?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Web%20Development-312E81?style=for-the-badge"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Automation-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/E--commerce-5B21B6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deployment-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Developer%20Tools-4C1D95?style=for-the-badge"/>
+</p>
+
+> **My goal is not to collect technologies — it is to use the right technology to solve the right problem.**
 
 ---
 
@@ -338,32 +333,19 @@ Completed comprehensive training focused on banking operations and core financia
 
 ## `06` — EDUCATION
 
-### 🎓 Master of Computer Applications
+### 🎓 Master of Computer Applications (MCA)
 
 **Alagappa University, Karaikudi**
 
 `2024 — 2026` · **GPA: 7.5 / 10**
 
-```text
-MCA
- ├── Computer Applications
- ├── Software Engineering
- └── AI / Technology Projects
-```
-
-### 📐 B.Sc. Mathematics — Top Performer
+### 📐 B.Sc. Mathematics
 
 **Vyasa Arts & Science College, Tenkasi**
 
 `2021 — 2024` · **GPA: 9.2 / 10**
 
-```text
-MATHEMATICS
-      │
-      ├── Analytical Thinking
-      ├── Logical Reasoning
-      └── Problem Solving
-```
+> My academic background combines computer applications with mathematics, giving me a strong foundation for analytical thinking, software development, and problem solving.
 
 ---
 
@@ -377,28 +359,16 @@ MATHEMATICS
 
 ---
 
-## `08` — BEYOND CODE
+## `08` — BEYOND DEVELOPMENT
 
-```text
-╭────────────────────────────────────────────────────────────╮
-│                                                            │
-│   TECH WORKSHOPS        ████████████████████░░░  ACTIVE   │
-│   PEER LEARNING         █████████████████████░░  ACTIVE   │
-│   CODING ACTIVITIES     ███████████████████░░░░  ACTIVE   │
-│   ACADEMIC INITIATIVES  ████████████████████░░░  ACTIVE   │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/COLLABORATION-6D28D9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/WORKSHOPS-4C1D95?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PEER%20LEARNING-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PRACTICAL%20PROBLEM%20SOLVING-312E81?style=for-the-badge"/>
+</p>
 
-### Student Contributor — Alagappa University
-
-Actively involved in:
-
-* Technology workshops
-* Peer-learning sessions
-* Coding activities
-* Department-level events
-* Academic initiatives
+Technology is not only about writing code. I value learning with others, sharing knowledge, participating in technical activities, and turning ideas into practical solutions.
 
 ---
 
@@ -472,41 +442,25 @@ current_mode:
 
 ---
 
-## `14` — ENGINEERING PHILOSOPHY
+## `14` — BUILD PHILOSOPHY
 
-```text
-                         ┌───────────────┐
-                         │   CURIOSITY   │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                    ┌──────────────────────┐
-                    │    LEARN SOMETHING   │
-                    │        NEW           │
-                    └──────────┬───────────┘
-                               │
-                               ▼
-                     ┌──────────────────┐
-                     │      BUILD       │
-                     └────────┬─────────┘
-                              │
-                              ▼
-                     ┌──────────────────┐
-                     │     TEST         │
-                     └────────┬─────────┘
-                              │
-                              ▼
-                     ┌──────────────────┐
-                     │     IMPROVE      │
-                     └────────┬─────────┘
-                              │
-                              ▼
-                         ┌──────────┐
-                         │  REPEAT  │
-                         └──────────┘
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/CURIOSITY-8B5CF6?style=for-the-badge"/> ➜
+  <img src="https://img.shields.io/badge/UNDERSTAND%20WHY-7C3AED?style=for-the-badge"/> ➜
+  <img src="https://img.shields.io/badge/LEARN-6D28D9?style=for-the-badge"/> ➜
+  <img src="https://img.shields.io/badge/BUILD-5B21B6?style=for-the-badge"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/TEST-4C1D95?style=for-the-badge"/> ➜
+  <img src="https://img.shields.io/badge/IMPROVE-312E81?style=for-the-badge"/> ➜
+  <img src="https://img.shields.io/badge/SHIP-111827?style=for-the-badge"/>
+</p>
 
-> **I don't want to only learn technology. I want to build with it.**
+> **"I don't just learn technology. I learn how to use it to solve real problems."**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LEARN%20→%20BUILD%20→%20TEST%20→%20IMPROVE%20→%20SHARE-A78BFA?style=flat-square"/>
+</p>
 
 ---
 
