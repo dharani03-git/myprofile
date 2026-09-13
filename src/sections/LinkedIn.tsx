@@ -23,7 +23,7 @@ export const LinkedinSection = () => {
                         <div className="relative w-40 h-40 mb-8">
                             <div className="absolute inset-0 bg-blue-500/20 rounded-full blur-xl scale-125 animate-pulse" />
                             <img
-                                src="/Dharani.png"
+                                src="/dharani.png"
                                 alt="Profile"
                                 className="w-full h-full rounded-full border-8 border-white/5 object-cover object-[center_15%] relative"
                             />

@@ -33,7 +33,7 @@ export const GithubSection = () => {
                             className="w-40 h-40 rounded-full overflow-hidden border-8 border-primary/10 mb-8 p-1 glass"
                         >
                             <img
-                                src="/Dharani.png"
+                                src="/dharani.png"
                                 alt="GitHub Profile"
                                 className="w-full h-full rounded-full object-cover object-[center_15%]"
                             />
