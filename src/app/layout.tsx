@@ -15,12 +15,12 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Aram - Full Stack AI Developer Portfolio",
+  title: "dharaniguru - Full Stack AI Developer Portfolio",
   description: "A professional portfolio showcasing modern web development projects, AI solutions, and full-stack expertise.",
   icons: {
-    icon: "/logo-removebg-preview.png",
-    shortcut: "/logo-removebg-preview.png",
-    apple: "/logo-removebg-preview.png",
+    icon: "/projects/26ced294-28f6-4cc3-baad-ec4739e004e1.png",
+    shortcut: "/projects/26ced294-28f6-4cc3-baad-ec4739e004e1.png",
+    apple: "/projects/26ced294-28f6-4cc3-baad-ec4739e004e1.png",
   },
 };
 
