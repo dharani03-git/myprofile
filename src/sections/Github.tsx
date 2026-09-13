@@ -4,6 +4,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import { fadeIn } from "@/animations/variants";
 import { Github, Star, GitBranch, ExternalLink } from "lucide-react";
+import Image from "next/image";
 
 const repos = [
     { name: "anomaly-violence-detection", language: "Python", stars: 24, forks: 8, description: "Real-time behavior classification using pose landmarks and MediaPipe." },
@@ -32,9 +33,11 @@ export const GithubSection = () => {
                             transition={{ duration: 1 }}
                             className="w-40 h-40 rounded-full overflow-hidden border-8 border-primary/10 mb-8 p-1 glass"
                         >
-                            <img
+                            <Image
                                 src="/dharani.png"
                                 alt="GitHub Profile"
+                                width={160}
+                                height={160}
                                 className="w-full h-full rounded-full object-cover object-[center_15%]"
                             />
                         </motion.div>

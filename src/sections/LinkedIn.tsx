@@ -4,6 +4,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import { fadeIn } from "@/animations/variants";
 import { Linkedin, ExternalLink, ShieldCheck, UserPlus } from "lucide-react";
+import Image from "next/image";
 
 export const LinkedinSection = () => {
     return (
@@ -22,9 +23,11 @@ export const LinkedinSection = () => {
                     <div className="relative z-10 w-full flex flex-col items-center">
                         <div className="relative w-40 h-40 mb-8">
                             <div className="absolute inset-0 bg-blue-500/20 rounded-full blur-xl scale-125 animate-pulse" />
-                            <img
+                            <Image
                                 src="/dharani.png"
                                 alt="Profile"
+                                width={160}
+                                height={160}
                                 className="w-full h-full rounded-full border-8 border-white/5 object-cover object-[center_15%] relative"
                             />
                             <div className="absolute bottom-2 right-2 bg-blue-600 p-2 rounded-full border-4 border-background text-white">
