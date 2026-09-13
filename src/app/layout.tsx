@@ -17,11 +17,6 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "dharaniguru - Full Stack AI Developer Portfolio",
   description: "A professional portfolio showcasing modern web development projects, AI solutions, and full-stack expertise.",
-  icons: {
-    icon: "/projects/26ced294-28f6-4cc3-baad-ec4739e004e1.png",
-    shortcut: "/projects/26ced294-28f6-4cc3-baad-ec4739e004e1.png",
-    apple: "/projects/26ced294-28f6-4cc3-baad-ec4739e004e1.png",
-  },
 };
 
 export default function RootLayout({
